@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @1prc
+- 👀 I’m interested in software devolopment and app development...
+- 🌱 I’m currently learning artificial inteligence and robotics...
+- 📫 How to reach me by my insta - @1prakharchouhary ...
+
+<!---
+1prc/1prc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
